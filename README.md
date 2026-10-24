@@ -60,7 +60,7 @@ IMPLICARE
 ## Resurse utile
 [Site-ul oficial al scolii](https://cnmvslobozia.ro/)
 [Resurse folosite de catre noi](https://www.manuale.edu.ro/)
-[Vezi orarul clasei]
+[Vezi orarul clasei](#orar)
 [Propunerile noastre de proiecte]
 ## Anunturi \ 
 ~~Proiectul la biologie legat de impactul efortului fizic asupra organismului va fi predat joi. Ma astept ca toata lumea sa aiba proiectul realizat, deoarece avem o singura ora de biologie pe saptamana.~~ \
