@@ -60,7 +60,7 @@ IMPLICARE
 - [ ] Pregatirea pentru etapa nationala
 ## Galerie
 [O emblema reprezentativa a liceului nostru](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyvBiBpFQ71vvk-qU-w7SJVWF_lStRrWh-RR-z8MHtbQHkhLS50s3b4ns&s=10)
-[O emblema a liceului creata de catre mine](blob:https://web.whatsapp.com/4717c94b-871b-4bdc-bcc3-3d4e0991c846)
+[O emblema a liceului creata de catre mine](https://web.whatsapp.com/4717c94b-871b-4bdc-bcc3-3d4e0991c846)
 ## Resurse utile
 [Site-ul oficial al scolii](https://cnmvslobozia.ro/)
 [Resurse folosite de catre noi](https://www.manuale.edu.ro/)
