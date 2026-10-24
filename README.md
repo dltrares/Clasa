@@ -61,7 +61,7 @@ IMPLICARE
 [Site-ul oficial al scolii](https://cnmvslobozia.ro/)
 [Resurse folosite de catre noi](https://www.manuale.edu.ro/)
 [Vezi orarul clasei](#orar)
-[Propunerile noastre de proiecte]
+[Propunerile noastre de proiecte](#activitati-si-proiecte)
 ## Anunturi \ 
 ~~Proiectul la biologie legat de impactul efortului fizic asupra organismului va fi predat joi. Ma astept ca toata lumea sa aiba proiectul realizat, deoarece avem o singura ora de biologie pe saptamana.~~ \
 **Din cauza unor circumstante neprevazute, proiectul la biologie legat de impactul efortului fizic asupra organismului va fi predat vineri. In continuare ma astept sa aveti materialul completat, deoarece aveti inca o zi in plus.**
