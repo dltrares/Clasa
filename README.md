@@ -5,6 +5,8 @@ Cu totii din clasa suntem interesati de matematica si stiinte, avand ***scopul d
 Clasa: A IX-a B Liceul: CNMV Slobozia \
 Profilul: Mate-Info Specializarea: Intensiv eng  
 Numar de elevi: 30 Anul scolar: 2026-2027 <br>
+> Învățăm mai bine când colaborăm și ne respectăm. \
+> Fiecare coleg poate contribui cu o idee, o întrebare sau un ajutor.
 ## Profil si specializare
 ### Filiera
 Filiera Teoretica
@@ -58,6 +60,7 @@ IMPLICARE
 - [ ] Pregatirea pentru etapa nationala
 ## Galerie
 [O emblema reprezentativa a liceului nostru](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyvBiBpFQ71vvk-qU-w7SJVWF_lStRrWh-RR-z8MHtbQHkhLS50s3b4ns&s=10)
+[O emblema a liceului creata de catre mine](blob:https://web.whatsapp.com/4717c94b-871b-4bdc-bcc3-3d4e0991c846)
 ## Resurse utile
 [Site-ul oficial al scolii](https://cnmvslobozia.ro/)
 [Resurse folosite de catre noi](https://www.manuale.edu.ro/)
@@ -65,4 +68,5 @@ IMPLICARE
 [Propunerile noastre de proiecte](#activitati-si-proiecte)
 ## Anunturi \ 
 ~~Proiectul la biologie legat de impactul efortului fizic asupra organismului va fi predat joi. Ma astept ca toata lumea sa aiba proiectul realizat, deoarece avem o singura ora de biologie pe saptamana.~~ \
-**Din cauza unor circumstante neprevazute, proiectul la biologie legat de impactul efortului fizic asupra organismului va fi predat vineri. In continuare ma astept sa aveti materialul completat, deoarece aveti inca o zi in plus.**
+**Din cauza unor circumstante neprevazute, proiectul la biologie legat de impactul efortului fizic asupra organismului va fi predat vineri. In continuare ma astept sa aveti materialul completat, deoarece aveti inca o zi in plus.**\
+\* Scriem Clasa noastră între asteriscuri. \*
