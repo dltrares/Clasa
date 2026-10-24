@@ -28,9 +28,40 @@ Matematica, Informatica, Engleza, Fizica, TIC
 ## Discipline si invatare
 Prezentarea clasei este realizată în file-ul `README.md`.
 Funcția `print()` poate afișa numărul total de ore dintr-o săptămână.
+
+```python
+ore_pe_zi = [6, 6, 5, 6, 6]
+print(sum(ore_pe_zi))
+```
+``` 
+RESPECT
+COLABORARE
+IMPLICARE 
+```
+În proiectele noastre putem întâlni notații precum CO<sub>2 și m<sup>2.
 ## Activitati si proiecte
+- Participarea la olimpiade
+- Activitatea la centrul de excelenta
+  - Diplome pentru admitere
+- Realizarea proiectului la biologie
+  - Tensiometru
+- Realizarea proiectului de biologie
+1. Aflarea impactului efortului fizic asupra organismului
+2. Masurarea pulsului si a tensiunii voluntarilor
+3. Masurarea cu tensiometrul, notarea datelor pe hartie cu pixul
+4. Voluntarii depun efortul fizic, masuram pulsul si tensiunea inainte si dupa efort pentru a vedea schimbarile
+
+- Participarea la olimpiade , Exemplu de planificare
+- [x] Pregatirea pentru etapa pe scoala
+- [x] Anuntarea datelor de desfasurare a etapelor
+- [ ] Pregatirea pentru etapa judeteana
+- [ ] Pregatirea pentru etapa nationala
 ## Galerie
 ## Resurse utile
-## Anunturi
+[Site-ul oficial al scolii](https://cnmvslobozia.ro/)
+[Resurse folosite de catre noi](https://www.manuale.edu.ro/)
+[Vezi orarul clasei]
+[Propunerile noastre de proiecte]
+## Anunturi \ 
 ~~Proiectul la biologie legat de impactul efortului fizic asupra organismului va fi predat joi. Ma astept ca toata lumea sa aiba proiectul realizat, deoarece avem o singura ora de biologie pe saptamana.~~ \
 **Din cauza unor circumstante neprevazute, proiectul la biologie legat de impactul efortului fizic asupra organismului va fi predat vineri. In continuare ma astept sa aveti materialul completat, deoarece aveti inca o zi in plus.**
